@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">职业资产</title>
+  <desc id="desc">从已有材料和顾问式深访出发，沉淀职业主档，派生岗位简历，并通过投递与面试反馈持续迭代。</desc>
+
+  <rect width="1200" height="420" rx="28" fill="#0B1720"/>
+  <path d="M0 352 C240 318 393 390 620 356 C834 324 963 270 1200 300 V420 H0Z" fill="#102833"/>
+
+  <g id="title-block" transform="translate(64 58)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif">
+    <text x="0" y="0" dominant-baseline="hanging" font-size="18" font-weight="700" letter-spacing="3" fill="#6AD7B0">CAREER ASSETS · AGENT SKILL</text>
+    <text x="0" y="58" dominant-baseline="hanging" font-size="72" font-weight="800" fill="#F4F1E8">职业资产</text>
+    <text x="0" y="154" dominant-baseline="hanging" font-size="28" font-weight="600" fill="#F4F1E8">先把经历挖深，再生成真正能复用的简历。</text>
+    <text x="0" y="205" dominant-baseline="hanging" font-size="21" fill="#A9BBC2">材料阅读 · 顾问式深访 · 长期主档 · 岗位派生 · 反馈迭代</text>
+
+    <g transform="translate(0 278)" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">
+      <rect width="174" height="44" rx="22" fill="#183540" stroke="#31505A"/>
+      <circle cx="24" cy="22" r="5" fill="#6AD7B0"/>
+      <text x="42" y="28" fill="#E1ECE7">帮我梳理经历</text>
+    </g>
+    <text x="0" y="356" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" fill="#78929C">4 QUESTIONS → 1 VISIBLE UPDATE</text>
+  </g>
+
+  <g id="career-system" transform="translate(718 46)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif">
+    <rect x="10" y="10" width="408" height="318" rx="22" fill="#071016" stroke="#233D47" stroke-width="2"/>
+    <rect x="0" y="0" width="408" height="318" rx="22" fill="#F4F1E8"/>
+
+    <text x="30" y="42" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="700" letter-spacing="2" fill="#50717B">职业经历.md</text>
+    <line x1="30" y1="62" x2="378" y2="62" stroke="#CFD8D5" stroke-width="2"/>
+
+    <g transform="translate(30 88)">
+      <circle cx="10" cy="10" r="10" fill="#6AD7B0"/>
+      <text x="34" y="17" font-size="22" font-weight="700" fill="#12222A">经历与成绩</text>
+      <text x="200" y="17" font-size="18" fill="#62767E">事实 / 指标 / 贡献</text>
+    </g>
+    <g transform="translate(30 140)">
+      <circle cx="10" cy="10" r="10" fill="#FF8A68"/>
+      <text x="34" y="17" font-size="22" font-weight="700" fill="#12222A">成长故事</text>
+      <text x="200" y="17" font-size="18" fill="#62767E">选择 / 突破 / 反思</text>
+    </g>
+    <g transform="translate(30 192)">
+      <circle cx="10" cy="10" r="10" fill="#69A7D8"/>
+      <text x="34" y="17" font-size="22" font-weight="700" fill="#12222A">能力证据</text>
+      <text x="200" y="17" font-size="18" fill="#62767E">可验证 / 可复用</text>
+    </g>
+
+    <rect x="30" y="244" width="156" height="46" rx="10" fill="#0B1720"/>
+    <text x="108" y="273" text-anchor="middle" font-size="19" font-weight="700" fill="#F4F1E8">岗位简历</text>
+    <path d="M190 267 H218" stroke="#FF8A68" stroke-width="3"/>
+    <path d="M214 261 L222 267 L214 273" fill="none" stroke="#FF8A68" stroke-width="3"/>
+    <rect x="226" y="244" width="152" height="46" rx="10" fill="#DCEBE5"/>
+    <text x="302" y="273" text-anchor="middle" font-size="19" font-weight="700" fill="#17372F">反馈回流</text>
+
+    <path d="M378 267 C438 267 445 350 338 350 H82 C18 350 2 328 2 308" fill="none" stroke="#6AD7B0" stroke-width="3" stroke-dasharray="7 7"/>
+    <path d="M-4 312 L2 302 L8 312" fill="#6AD7B0"/>
+  </g>
+</svg>
